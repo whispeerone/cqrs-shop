@@ -1,0 +1,9 @@
+C:\Users\nik\RiderProjects\CQRS-store\Events\bin\Debug\netcoreapp2.2\Events.deps.json
+C:\Users\nik\RiderProjects\CQRS-store\Events\bin\Debug\netcoreapp2.2\Events.dll
+C:\Users\nik\RiderProjects\CQRS-store\Events\bin\Debug\netcoreapp2.2\Events.pdb
+C:\Users\nik\RiderProjects\CQRS-store\Events\obj\Debug\netcoreapp2.2\Events.csprojAssemblyReference.cache
+C:\Users\nik\RiderProjects\CQRS-store\Events\obj\Debug\netcoreapp2.2\Events.csproj.CoreCompileInputs.cache
+C:\Users\nik\RiderProjects\CQRS-store\Events\obj\Debug\netcoreapp2.2\Events.AssemblyInfoInputs.cache
+C:\Users\nik\RiderProjects\CQRS-store\Events\obj\Debug\netcoreapp2.2\Events.AssemblyInfo.cs
+C:\Users\nik\RiderProjects\CQRS-store\Events\obj\Debug\netcoreapp2.2\Events.dll
+C:\Users\nik\RiderProjects\CQRS-store\Events\obj\Debug\netcoreapp2.2\Events.pdb

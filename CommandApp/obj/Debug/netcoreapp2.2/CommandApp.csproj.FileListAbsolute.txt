@@ -1,0 +1,14 @@
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\bin\Debug\netcoreapp2.2\CommandApp.deps.json
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\bin\Debug\netcoreapp2.2\CommandApp.runtimeconfig.json
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\bin\Debug\netcoreapp2.2\CommandApp.runtimeconfig.dev.json
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\bin\Debug\netcoreapp2.2\CommandApp.dll
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\bin\Debug\netcoreapp2.2\CommandApp.pdb
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.csprojAssemblyReference.cache
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.csproj.CoreCompileInputs.cache
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.RazorAssemblyInfo.cache
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.RazorAssemblyInfo.cs
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.AssemblyInfoInputs.cache
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.AssemblyInfo.cs
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.RazorTargetAssemblyInfo.cache
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.dll
+C:\Users\nik\RiderProjects\CQRS-store\CommandApp\obj\Debug\netcoreapp2.2\CommandApp.pdb
