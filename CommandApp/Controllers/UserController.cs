@@ -1,5 +1,6 @@
 using System.Threading.Tasks;
 using CommandApp.Commands;
+using CommandApp.Commands.ChangeInfo;
 using CommandApp.Services;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -22,6 +23,18 @@ namespace CommandApp.Controllers
         public async Task<int> Create([FromBody] CreateUserCommand command)
         {
             return await _mediator.Send(command);
-        } 
+        }
+
+        public async Task ChangeInfo([FromBody] ChangeInfoCommand command)
+        {
+            
+        }
+        
+        public async Task AddMoney()
+        {
+            
+        }
+
+        
     }
 }

@@ -7,6 +7,9 @@
       <e p="CommandApp" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
+        <e p="automapper" t="Include">
+          <e p="AutomapperProfile.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="CommandApp.csproj" t="IncludeRecursive" />
         <e p="Commands" t="Include">
@@ -15,8 +18,15 @@
           <e p="ICommand.cs" t="Include" />
           <e p="Order" t="Include" />
           <e p="Product" t="Include" />
+          <e p="Repository" t="Include">
+            <e p="IRepository.cs" t="Include" />
+            <e p="UserRepository.cs" t="Include" />
+          </e>
           <e p="User" t="Include">
-            <e p="ChangeInfoCommand.cs" t="Include" />
+            <e p="ChangeInfo" t="Include">
+              <e p="ChangeInfoCommand.cs" t="Include" />
+              <e p="ChangeInfoCommandHandler.cs" t="Include" />
+            </e>
             <e p="CreateUser" t="Include">
               <e p="CreateUserCommand.cs" t="Include" />
               <e p="CreateUserCommandHandler.cs" t="Include" />
@@ -41,6 +51,10 @@
         </e>
         <e p="Enum" t="Include">
           <e p="Gender.cs" t="Include" />
+        </e>
+        <e p="Events" t="Include">
+          <e p="IEvent.cs" t="Include" />
+          <e p="UserInfoChanged.cs" t="Include" />
         </e>
         <e p="Infrastructure" t="Include">
           <e p="CommandLogger.cs" t="Include" />

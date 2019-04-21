@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CommandApp.Controllers
@@ -5,7 +6,7 @@ namespace CommandApp.Controllers
     public class ProductController : Controller
     {
 
-        public void Create()
+        public async Task Create()
         {
             
         }

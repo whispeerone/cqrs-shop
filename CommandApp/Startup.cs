@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
+using CommandApp.Commands.Repository;
 using CommandApp.Entity;
 using CommandApp.Infrastructure;
 using MediatR;
@@ -43,6 +45,10 @@ namespace CommandApp
 
             services.AddMediatR();
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(CommandLogger<,>));
+
+            services.AddScoped<UserRepository>();
+            
+            services.AddAutoMapper();
             
             return services.BuildServiceProvider();
         }
