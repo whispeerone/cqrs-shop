@@ -1,0 +1,23 @@
+:host {
+
+	display: flex;
+	justify-content: space-between;
+	width: 200px;
+	
+	.container {
+		display: flex;
+		flex-direction: column;
+		width: 150px;
+
+		div {
+			width: 100%;
+		}
+
+		.main-info {
+			display: flex;
+			justify-content: space-between;
+		}
+	}
+
+
+}

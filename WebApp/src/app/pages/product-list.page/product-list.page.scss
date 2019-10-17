@@ -1,0 +1,12 @@
+:host {
+	.container {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+
+		.item {
+			margin-top: 5px;
+			width: 50%;
+		}
+	}
+}

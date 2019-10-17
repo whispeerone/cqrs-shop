@@ -1,0 +1,19 @@
+:host {
+	.container {
+
+		height: 40px;
+		background: #aaa;
+		display: flex;
+		justify-content: space-around;
+
+		a {
+			text-decoration: none;
+		}
+
+		.item {
+			width: 90px;
+			padding: 5px;
+			border: 1px solid #ddd;
+		}
+	}	
+}

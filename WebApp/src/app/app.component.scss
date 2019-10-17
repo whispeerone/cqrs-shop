@@ -1,0 +1,12 @@
+
+.app-container {
+	display: flex;
+	flex-direction: column;
+
+	> * {
+		outline: 1px solid red;
+	}
+
+	margin: 0 auto;
+	width: 800px;
+}
